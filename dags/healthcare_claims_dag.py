@@ -4,7 +4,7 @@ Healthcare Claims Data Pipeline
 This pipeline processes synthetic Medicare claims data, demonstrating
 ETL principles with proper memory management and cleanup.
 
-Only processes a small sample (1,000 records) to conserve disk space
+Only processes a small sample to conserve disk space
 while still showcasing the full data processing workflow.
 
 """
