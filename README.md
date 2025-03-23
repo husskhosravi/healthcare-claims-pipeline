@@ -138,7 +138,6 @@ The pipeline creates several analytical views in PostgreSQL:
 
 - Add machine learning models for risk prediction
 - Implement provider performance metrics
-- Create real-time dashboards with Grafana
 - Scale to handle full-size CMS data using Spark
 - Add automated alerts for unusual claim patterns
 
