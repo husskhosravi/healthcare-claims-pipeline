@@ -7,6 +7,7 @@ This project demonstrates a production-ready data pipeline for processing health
 ![Airflow DAG Graph View](images/dag_graph_view.png)
 
 This pipeline is optimised for local development with minimal disk space requirements, processing only a sample of the data while still demonstrating the full ETL workflow.
+*The pipeline processes a small sample of healthcare claims data to demonstrate the ETL workflow while conserving disk space.*
 
 ## Features
 
