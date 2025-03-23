@@ -333,3 +333,80 @@
 [2025-03-23T13:48:48.430+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:48:48.429+0000] {dag.py:2915} INFO - Sync 1 DAGs
 [2025-03-23T13:48:48.443+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:48:48.442+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
 [2025-03-23T13:48:48.467+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.362 seconds
+[2025-03-23T13:49:18.641+0000] {processor.py:157} INFO - Started process (PID=1519) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:49:18.642+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:49:18.643+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:49:18.643+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:49:18.940+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:49:18.967+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:49:18.967+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:49:18.980+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:49:18.980+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:49:19.006+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.367 seconds
+[2025-03-23T13:49:49.174+0000] {processor.py:157} INFO - Started process (PID=1541) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:49:49.176+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:49:49.176+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:49:49.176+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:49:49.453+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:49:49.480+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:49:49.479+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:49:49.493+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:49:49.493+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:49:49.515+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.344 seconds
+[2025-03-23T13:50:19.678+0000] {processor.py:157} INFO - Started process (PID=1571) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:50:19.679+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:50:19.680+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:50:19.680+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:50:19.980+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:50:20.007+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:50:20.007+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:50:20.020+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:50:20.020+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:50:20.045+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.369 seconds
+[2025-03-23T13:50:50.222+0000] {processor.py:157} INFO - Started process (PID=1593) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:50:50.223+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:50:50.224+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:50:50.224+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:50:50.505+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:50:50.534+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:50:50.534+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:50:50.548+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:50:50.548+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:50:50.576+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.357 seconds
+[2025-03-23T13:51:20.744+0000] {processor.py:157} INFO - Started process (PID=1623) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:51:20.745+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:51:20.746+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:51:20.746+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:51:21.050+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:51:21.077+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:51:21.076+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:51:21.088+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:51:21.088+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:51:21.112+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.371 seconds
+[2025-03-23T13:51:51.289+0000] {processor.py:157} INFO - Started process (PID=1645) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:51:51.291+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:51:51.292+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:51:51.291+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:51:51.573+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:51:51.601+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:51:51.600+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:51:51.613+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:51:51.613+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:51:51.640+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.353 seconds
+[2025-03-23T13:52:21.807+0000] {processor.py:157} INFO - Started process (PID=1675) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:52:21.807+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:52:21.808+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:52:21.808+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:52:22.085+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:52:22.111+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:52:22.110+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:52:22.123+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:52:22.123+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:52:22.148+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.343 seconds
+[2025-03-23T13:52:52.315+0000] {processor.py:157} INFO - Started process (PID=1705) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:52:52.316+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:52:52.316+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:52:52.316+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:52:53.042+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:52:53.261+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:52:53.260+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:52:53.393+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:52:53.392+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:52:53.519+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 1.207 seconds
+[2025-03-23T13:53:23.704+0000] {processor.py:157} INFO - Started process (PID=1728) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:53:23.705+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:53:23.706+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:53:23.706+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:53:24.126+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:53:24.155+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:53:24.154+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:53:24.181+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:53:24.181+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:53:24.203+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.502 seconds
+[2025-03-23T13:53:54.405+0000] {processor.py:157} INFO - Started process (PID=1750) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:53:54.405+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:53:54.406+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:53:54.406+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:53:54.826+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:53:54.894+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:53:54.893+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:53:54.928+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:53:54.928+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:53:54.964+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 0.562 seconds
+[2025-03-23T13:54:25.043+0000] {processor.py:157} INFO - Started process (PID=1780) to work on /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:54:25.044+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/healthcare_claims_dag.py for tasks to queue
+[2025-03-23T13:54:25.046+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:54:25.045+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:54:25.795+0000] {processor.py:839} INFO - DAG(s) dict_keys(['healthcare_claims_pipeline']) retrieved from /opt/airflow/dags/healthcare_claims_dag.py
+[2025-03-23T13:54:25.951+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:54:25.950+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-03-23T13:54:26.013+0000] {logging_mixin.py:151} INFO - [2025-03-23T13:54:26.013+0000] {dag.py:3696} INFO - Setting next_dagrun for healthcare_claims_pipeline to None, run_after=None
+[2025-03-23T13:54:26.057+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/healthcare_claims_dag.py took 1.035 seconds
