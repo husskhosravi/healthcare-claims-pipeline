@@ -7,8 +7,6 @@ ETL principles with proper memory management and cleanup.
 Only processes a small sample (1,000 records) to conserve disk space
 while still showcasing the full data processing workflow.
 
-Author: Hossein
-Date: March 2025
 """
 
 import os
