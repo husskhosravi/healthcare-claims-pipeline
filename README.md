@@ -66,7 +66,7 @@ The pipeline uses the Synthetic Public Use Files (SynPUFs) from CMS, which conta
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/healthcare-claims-pipeline.git
+   git clone https://github.com/husskhosravi/healthcare-claims-pipeline.git
    cd healthcare-claims-pipeline
    ```
 
